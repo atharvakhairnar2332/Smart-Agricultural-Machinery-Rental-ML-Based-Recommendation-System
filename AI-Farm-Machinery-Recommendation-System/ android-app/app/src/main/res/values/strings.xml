@@ -1,0 +1,138 @@
+<resources>
+    <string name="seed_drill_model_name">Seed Drill Model Name</string>
+    <string name="welcome">Welcome to KhetSeva</string>
+    <string name="harvester_requirements"> Enter Harvester Specifications</string>
+    <string name="seed_drill_requirements">Enter Seed Drill Specifications</string>
+    <string name="rotavator_requirements">Enter Rotavator Specifications</string>
+    <string name="tractor_requirements">Enter Tractor Specifications</string>
+    <string name="farm_size_hectare">Farm Size (hectares)</string>
+    <string name="crop_type">Crop Type</string>
+    <string name="soil_type">Soil Type</string>
+    <string name="budget_level">Budget Level</string>
+    <string name="tractor_model_name">Tractor Model Name</string>
+    <string name="soybean">Soybean</string>
+    <string name="cotton">Cotton</string>
+    <string name="email">Email</string>
+    <string name="farm_details">Enter Your Farm Details</string>
+    <string name="select_role">Select Role</string>
+    <!-- General -->
+    <string name="clay_soil">Clay</string>
+    <string name="sandy_soil">Sandy</string>
+    <string name="loamy_soil">Loamy</string>
+    <string name="show_results">Show Results</string>
+    <string name="harvester_model_name">Harvester Model Name</string>
+    <string name="password">Password</string>
+    <string name="set_password">Set Password</string>
+    <string name="password_error">Password must be at least 6 characters</string>
+    <string name="tractor_hp_range">Tractor HP </string>
+    <string name="cutting_width_ft">Cutting Width (ft)</string>
+    <string name="row_count">Row Count</string>
+    <string name="working_width_m">Working Width (meters)</string>
+    <string name="select_pricing_preference">Select Pricing Preference</string>
+    <string name="per_hour">Per Hour</string>
+    <string name="per_day">Per Day</string>
+    <string name="per_week">Per Week</string>
+    <string name="per_month">Per Month</string>
+    <string name="pricing_details">Pricing Details</string>
+    <string name="price_per_hour">Price per Hour</string>
+    <string name="price_per_day">Price per Day</string>
+    <string name="price_per_week">Price per Week</string>
+    <string name="price_per_month">Price per Month</string>
+
+    <string name="fill_all_fields">Please fill all fields</string>
+
+    <!-- Dropdown Labels -->
+    <string name="select_crop">Select Crop</string>
+    <string name="select_soil">Select Soil Type</string>
+    <string name="select_budget">Select Budget</string>
+    <string name="rotavator_model_name">Rotavator Model Name</string>
+    <!-- Budget -->
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    <!-- Soil -->
+    <string name="soft_soil">Soft Soil</string>
+    <string name="clayey_soil">Clayey Soil</string>
+    <string name="rocky_soil">Rocky</string>
+
+    <!-- Crops -->
+    <string name="wheat">Wheat</string>
+    <string name="rice">Rice</string>
+    <string name="maize">Maize</string>
+
+    <!-- Requirement Titles -->
+
+
+    <string name="show_harvesters">Show Harvesters</string>
+    <string name="show_seed_drills">Show Seed Drills</string>
+    <string name="show_rotavators">Show Rotavators</string>
+
+
+    <string name="app_name">KhetSeva3</string>
+    <string name="credentials">Enter your credentials</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="user_profile">User Profile</string>
+    <string name="tap_to_continue">Tap to continue</string>
+    <string name="harvester">Harvester</string>
+    <string name="seed_drill">Seed Drill</string>
+    <string name="rotavator">Rotavator</string>
+    <string name="take_desc">Find the best tractor for your land</string>
+    <string name="give_desc">List your tractor and earn income</string>
+    <string name="tractor_title">Tractor</string>
+    <string name="tractor_desc">Ideal for ploughing, seeding and transport work</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create New Account</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+    <string name="give_location_access">Give Location Access</string>
+    <string name="registration_success">Registration successful</string>
+    <string name="fill_details_error">Please fill details correctly</string>
+    <string name="name">Enter Name</string>
+    <string name="phone">Enter Phone (10 digits)</string>
+
+    <string name="take_rent">Take Machinery on Rent</string>
+    <string name="give_rent">Give Machinery on Rent</string>
+
+    <string name="select_machine">Select Machinery</string>
+    <string name="back">Back</string>
+
+    <string name="land_size">Land Size (acres)</string>
+    <string name="select_usage">Select Usage</string>
+    <string name="show_tractors">Show Tractors</string>
+    <string name="continue_text">Continue</string>
+
+    <string name="best_pick">Best Pick for You</string>
+    <string name="other_options">Other Options</string>
+
+    <string name="tractor_hp">Tractor HP</string>
+    <string name="rental_price">Rental Price</string>
+    <string name="save">Save</string>
+    <string name="already_logged_in">You are already logged in</string>
+    <string name="continue_button">Continue</string>
+    <string name="login_another">Login with another number</string>
+    <string name="logged_as">Logged in as:</string>
+
+
+    <string name="enter_land_size_error">Enter land size</string>
+    <string name="select_usage_error">Select usage</string>
+    <string name="enter_hp_error">Enter tractor HP</string>
+    <string name="enter_price_error">Enter rental price</string>
+    <string name="name_required">Name required</string>
+    <string name="phone_error">Phone must be 10 digits</string>
+    <string name="tractor"> Tractor</string>
+    <string name="ploughing">Ploughing</string>
+    <string name="spraying">Spraying</string>
+    <string name="seeding">Seeding</string>
+    <string name="transport">Transport</string>
+    <string name="tractor_a">🚜 Tractor A - 40 HP - ₹500/hr</string>
+    <string name="tractor_b">🚜 Tractor B - 35 HP - ₹450/hr</string>
+    <string name="tractor_c">🚜 Tractor C - 45 HP - ₹600/hr</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,135 @@
+<resources>
+
+    <string name="welcome">KhetSeva मध्ये आपले स्वागत आहे</string>
+
+    <string name="show_results">निकाल पाहा</string>
+    <string name="farm_size_hectare">शेतीचा आकार (हेक्टर)</string>
+
+    <string name="select_crop">पीक निवडा</string>
+    <string name="select_soil">मातीचा प्रकार निवडा</string>
+    <string name="select_budget">बजेट निवडा</string>
+    <string name="email">ईमेल</string>
+    <string name="select_role">भूमिका निवडा</string>
+    <string name="low">कमी</string>
+    <string name="medium">मध्यम</string>
+    <string name="high">जास्त</string>
+    <string name="select_pricing_preference">किंमत प्राधान्य निवडा</string>
+    <string name="per_hour">प्रति तास</string>
+    <string name="per_day">प्रति दिवस</string>
+    <string name="per_week">प्रति आठवडा</string>
+    <string name="per_month">प्रति महिना</string>
+    <string name="soft_soil">मऊ माती</string>
+    <string name="farm_details">तुमच्या शेताची माहिती भरा</string>
+    <string name="clayey_soil">चिकण माती</string>
+    <string name="rocky_soil">खडकाळ माती </string>
+    <string name="seed_drill_model_name">सीड ड्रिल मॉडेल नाव</string>
+    <string name="tractor_model_name">ट्रॅक्टर मॉडेल नाव</string>
+    <string name="password">पासवर्ड</string>
+    <string name="set_password">पासवर्ड सेट करा</string>
+    <string name="password_error">पासवर्ड किमान 6 अक्षरांचा असावा</string>
+    <string name="wheat">गहू</string>
+    <string name="rice">भात</string>
+    <string name="maize">मका</string>
+    <string name="soybean">सोयाबीन</string>
+    <string name="cotton">कापूस</string>
+    <string name="app_name">खेतसेवा</string>
+    <string name="tractor_requirements">ट्रॅक्टरची माहिती भरा</string>
+    <string name="credentials">आपली माहिती प्रविष्ट करा</string>
+    <string name="login">लॉगिन करा</string>
+    <string name="harvester">हार्वेस्टर</string>
+    <string name="seed_drill">सीड ड्रिल</string>
+    <string name="rotavator">रोटाव्हेटर</string>
+    <string name="harvester_requirements">हार्वेस्टरची माहिती भरा</string>
+    <string name="seed_drill_requirements">सीड ड्रिलची माहिती भरा</string>
+    <string name="rotavator_requirements">रोटावेटरची माहिती भरा</string>
+    <string name="clay_soil">चिकण माती</string>
+    <string name="sandy_soil">वाळूमिश्रित माती</string>
+    <string name="loamy_soil">दोमट माती</string>
+    <string name="harvester_model_name">हार्वेस्टर मॉडेल नाव</string>
+    <string name="crop_type">पीक प्रकार</string>
+    <string name="soil_type">मातीचा प्रकार</string>
+    <string name="budget_level">बजेट स्तर</string>
+
+    <string name="rotavator_model_name">रोटावेटर मॉडेल नाव</string>
+    <string name="show_harvesters">हार्वेस्टर दाखवा</string>
+    <string name="show_seed_drills">सीड ड्रिल दाखवा</string>
+    <string name="show_rotavators">रोटाव्हेटर दाखवा</string>
+
+
+        <string name="register">नोंदणी करा</string>
+        <string name="create_account">नवीन खाते तयार करा</string>
+        <string name="country">देश</string>
+        <string name="state">राज्य</string>
+        <string name="city">शहर</string>
+        <string name="give_location_access">लोकेशन परवानगी द्या</string>
+        <string name="registration_success">नोंदणी यशस्वी झाली</string>
+        <string name="fill_details_error">कृपया योग्य माहिती भरा</string>
+
+
+    <string name="name">नाव प्रविष्ट करा</string>
+    <string name="phone">फोन नंबर प्रविष्ट करा</string>
+    <string name="tap_to_continue">पुढे जाण्यासाठी टॅप करा</string>
+
+    <string name="continue_button">पुढे जा</string>
+    <string name="logged_as">लॉगिन केले आहे:</string>
+    <string name="already_logged_in">आपण आधीच लॉगिन केले आहे</string>
+    <string name="continue_text">पुढे चालू ठेवा</string>
+    <string name="login_another">दुसऱ्या नंबरने लॉगिन करा</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="user_profile">वापरकर्ता प्रोफाइल</string>
+    <string name="take_desc">आपल्या जमिनीसाठी सर्वोत्तम ट्रॅक्टर शोधा</string>
+    <string name="give_desc">आपला ट्रॅक्टर नोंदणी करा आणि कमाई करा</string>
+    <string name="tractor_title">ट्रॅक्टर</string>
+    <string name="tractor_desc">नांगरणी, पेरणी आणि वाहतुकीसाठी योग्य</string>
+
+
+    <string name="take_rent">मशीन भाड्याने घ्या</string>
+    <string name="give_rent">मशीन भाड्याने द्या</string>
+
+    <string name="select_machine">मशीन निवडा</string>
+    <string name="back">मागे</string>
+
+    <string name="land_size">जमिनीचे क्षेत्र (एकर)</string>
+    <string name="select_usage">वापर निवडा</string>
+    <string name="show_tractors">ट्रॅक्टर दाखवा</string>
+
+    <string name="best_pick">तुमच्यासाठी सर्वोत्तम पर्याय</string>
+    <string name="other_options">इतर पर्याय</string>
+
+    <string name="tractor_hp">ट्रॅक्टर एचपी</string>
+    <string name="rental_price">भाडे किंमत</string>
+    <string name="save">जतन करा</string>
+
+    <string name="enter_land_size_error">जमिनीचे क्षेत्र प्रविष्ट करा</string>
+    <string name="select_usage_error">वापर निवडा</string>
+    <string name="enter_hp_error">ट्रॅक्टर एचपी प्रविष्ट करा</string>
+    <string name="enter_price_error">भाडे किंमत प्रविष्ट करा</string>
+    <string name="name_required">नाव आवश्यक आहे</string>
+    <string name="phone_error">फोन नंबर 10 अंकी असावा</string>
+    <string name="tractor"> ट्रॅक्टर</string>
+    <string name="ploughing">नांगरणी</string>
+    <string name="spraying">फवारणी</string>
+    <string name="seeding">पेरणी</string>
+    <string name="transport">वाहतूक</string>
+    <string name="tractor_a">🚜 ट्रॅक्टर A - 40 एचपी - ₹500/तास</string>
+    <string name="tractor_b">🚜 ट्रॅक्टर B - 35 एचपी - ₹450/तास</string>
+    <string name="tractor_c">🚜 ट्रॅक्टर C - 45 एचपी - ₹600/तास</string>
+
+
+    <string name="fill_all_fields">सभी विवरण भरें</string>
+    <string name="tractor_hp_range">ट्रॅक्टर HP</string>
+    <string name="cutting_width_ft">कटिंग रुंदी (फूट)</string>
+    <string name="row_count">ओळींची संख्या</string>
+    <string name="working_width_m">कार्य रुंदी (मीटर)</string>
+
+    <string name="pricing_details">भाडे तपशील</string>
+    <string name="price_per_hour">प्रति तास दर</string>
+    <string name="price_per_day">प्रति दिवस दर</string>
+    <string name="price_per_week">प्रति आठवडा दर</string>
+    <string name="price_per_month">प्रति महिना दर</string>
+
+
+
+
+
+</resources>
