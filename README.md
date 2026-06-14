@@ -123,7 +123,7 @@ The system follows a multi-layer architecture consisting of:
 
 ### Machine Learning
 
-* Agricultural Machinery Recommendation Models
+* Agricultural Machinery Recommendation Models (Decision Trees)
 
 ### Image Storage
 
@@ -144,7 +144,7 @@ The system follows a multi-layer architecture consisting of:
 | Database             | MySQL            |
 | Password Security    | bcrypt           |
 | Image Loading        | Coil             |
-| Machine Learning     | Python ML Models |
+| Machine Learning     | Decision Tree Models |
 
 ---
 
