@@ -2,5 +2,5 @@ package com.example.khetseva3.network
 
 object AppConfig {
 
-    const val BASE_URL = "http://192.168.1.83:8000/"
+    const val BASE_URL = "http://Your IP Address:8000/" "or HOSTED Domain URL"
 }
