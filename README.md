@@ -227,3 +227,8 @@ The system follows a multi-layer architecture consisting of:
 * Secure Authentication Flow
 * Session Persistence using SharedPreferences
 
+---
+
+## Future Scope
+Scale the platform to support a larger user base using technologies such as NGINX and Redis, while introducing additional features such as location services, enhanced search and improved user experience.
+
