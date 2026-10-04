@@ -223,7 +223,7 @@ The system follows a multi-layer architecture consisting of:
 
 The project certificate is available in:
 
-[Project Certificate](NMITCON_Conference Participation Certification_Atharva Khairnar.pdf)
+[Project Certificate](<NMITCON_Conference Participation Certification_Atharva Khairnar.pdf>)
 
 ## Future Scope
 Scale the platform to support a larger user base using technologies such as NGINX and Redis, while introducing additional features such as location services, enhanced search and improved user experience.
